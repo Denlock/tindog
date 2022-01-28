@@ -1,0 +1,112 @@
+body {}
+
+#title {
+  background-color: #E60965;
+}
+
+.de {
+  padding: 3% 15%;
+}
+
+h1 {
+  color: white;
+  font-size: 59px;
+}
+
+.navbar {
+  padding: 1% 15%;
+  line-height: 2;
+  font-weight: lighter;
+}
+
+.iphone {
+  width: 70%;
+
+}
+
+.navbar-brand {
+  font-family: 'ubuntu';
+  font-size: 3.5rem;
+}
+
+.nav-item {
+  padding: 0 5%;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.btn {
+  margin: 40px 30px 0 0;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+.fas, .far {
+  color: #F94892;
+  font-size: 500%;
+  transition: color .25s;
+  padding-bottom: 8%;
+}
+
+.fas:hover {
+  color: #FE8F8F;
+}
+
+.far:hover {
+  color: #FE8F8F;
+}
+
+.pa {
+  color: #D5D5D5;
+  font-weight: 900;
+}
+
+.featurebox {
+  text-align: center;
+  padding: 7% 6%;
+}
+
+.carousel-inner {
+  background-color: #ef8172;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 3rem;
+  font-family: 'Montserrat';
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 20%;
+  margin: 5%;
+  border-radius: 50%;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.paisa {
+  color: black;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.card-deck {
+  padding-top: 5%;
+}
